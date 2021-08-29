@@ -22,7 +22,9 @@ This app is a digital diary of sorts. Its purpose is to provide an easy way to r
 
 **_Getting Started_**
 
-[Trello](https://lucid.app/lucidchart/28e5f9a4-7e7f-43cb-b1f8-a738ba6b39da/edit?beaconFlowId=D9C4A8D2E07F1147&page=0_0#)
+[Trello](https://trello.com/b/TXOgdIr6/balance)
+
+[Diagrams](https://lucid.app/lucidchart/28e5f9a4-7e7f-43cb-b1f8-a738ba6b39da/edit?beaconFlowId=D9C4A8D2E07F1147&page=0_0#)
 
 **_Screenshots_**
 
